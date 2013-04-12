@@ -2,7 +2,8 @@
 
 # check_sa.pl
 # Author: Jeff Goldschrafe
-# Version: 0.21.1
+# Contributions: Catalin Muresan
+# Version: 0.22
 # 
 # This Nagios plugin allows you to query the values of one or more sa/sar
 # counters, compare them to specified thresholds, and return the performance
